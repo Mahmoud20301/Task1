@@ -37,6 +37,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_LUNVOAvk6cnaFEgm021-20" value="subscriber" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#CC0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="583" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
