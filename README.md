@@ -5,6 +5,7 @@ _Let’s assume that we have a weather service online which can give us weather 
 _First of all, your computer will send a request to the server. The request will contain a message, in this case your location. The server will then process the request, and send a response. The response will also contain a message._
 _Keep in mind that the client's request must contain a location in order for the server to process the data and initiate communication. Additionally, if the server doesn't return a weather, the client won't understand  what's the response._
 
-![image](https://github.com/user-attachments/assets/cb935c37-7764-4813-9875-f1643568ee44)
+![image](https://github.com/user-attachments/assets/c31a0d25-7f66-4e5e-9965-c44c437e1120)
+
 
 
