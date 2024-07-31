@@ -1,5 +1,5 @@
 # **ROS Service**
-_A ROS service is a client/server system ,in our system we have topics to communicate with  two nodes ,first node called publisher (server) which wants to send data to second node with a request and second node called subscriber (client) which wants to receive data from first node and send a response back to the publisher._
+_A ROS service is a client/server system ,in our system we have topics to communicate with  two nodes ,first node called publisher (server) which wants to send data to second node with a request and second node called subscriber (client) which wants to receive data from first node and send a response back to the server._
 # **Example**
 _Let’s assume that we have a weather service online which can give us weather after we send our location In that example the weather service online is the server and you are the client. You will be able to access the server through an HTTP request, with a URL. Think as the HTTP URL as a ROS service._ <br>
 _First of all, your computer will send a request to the server. The request will contain a message, in this case your location. The server will then process the request, and send a response. The response will also contain a message._
