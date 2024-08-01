@@ -6,6 +6,8 @@ _First of all, your computer will send a request to the server. The request will
 _Keep in mind that the client's request must contain a location in order for the server to process the data and initiate communication. Additionally, if the server doesn't return a weather, the client won't understand  what's the response._
 
 ![image](https://github.com/user-attachments/assets/c31a0d25-7f66-4e5e-9965-c44c437e1120)
+https://app.diagrams.net/#HMahmoud20301%2FTask1%2Fmain%2Frobots.drawio#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
+![image](https://github.com/user-attachments/assets/a4bf1f50-1fa2-4e8c-b46b-29aded5854b2)
 
 
