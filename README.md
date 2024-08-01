@@ -10,6 +10,6 @@ _Keep in mind that the client's request must contain a location in order for the
 2.
 https://app.diagrams.net/#HMahmoud20301%2FTask1%2Fmain%2Frobots.drawio#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
-![image](https://github.com/user-attachments/assets/a4bf1f50-1fa2-4e8c-b46b-29aded5854b2)
+![Uploading image.png…]()
 
 
